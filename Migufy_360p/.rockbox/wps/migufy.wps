@@ -112,7 +112,7 @@
 %s%al%?it<%it|%fn>
 
 # Top line of two-line title
-%Vl(nobreak,259,75,217,50,5)
+%Vl(nobreak,259,85,217,37,5)
 %al%ss(0, 12, %it)
 
 # Bottom line of two-line title
