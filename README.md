@@ -9,7 +9,7 @@ It features hand drawn pixel perfect symmetric icons, though im no designer so i
 - Rearranged wps for better Migu compatibility
 
 ## Comparison
-| Left Migufy | Right Themify |
+| Migufy | Themify |
 |----|----|
 | ![alt text](new01-1.png) | ![alt text](old01-1.png) |
 |![alt text](new02-1.png) | ![alt text](old02-1.png) |
