@@ -22,7 +22,7 @@ For more details on attributions and licenses please look into the files of the 
 
 | Theme | Original Author | Port Author | Changes |
 |:-----|:--------|:--------:|:--------:|
-| Themify | Dook | rockbox-y1 & ApollosTomato | Remove brightness options, scale fonts and images, adjust list padding |
+| Themify (Migufy) | Dook | rockbox-y1 & ApollosTomato | Remove brightness options, scale fonts and images, adjust list padding |
 
 ## Support the original creators!
 - Dook, creator of Themify and Adwaitapod: [https://ko-fi.com/dook\_](https://ko-fi.com/dook\_)
