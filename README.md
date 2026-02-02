@@ -11,9 +11,9 @@ It features hand-drawn, pixel-perfect symmetric icons. I’m no designer, so it 
 ## Comparison
 | Migufy | Themify |
 |----|----|
-| ![alt text](new01-1.png) | ![alt text](old01-1.png) |
-|![alt text](new02-1.png) | ![alt text](old02-1.png) |
-| ![alt text](new03-1.png) | ![alt text](old03-1.png) |
+| ![alt text](new01.png) | ![alt text](old01.png) |
+| ![alt text](new02.png) | ![alt text](old02.png) |
+| ![alt text](new03.png) | ![alt text](old03.png) |
 
 # Rockbox 360p Themes
 
