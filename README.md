@@ -12,8 +12,10 @@ It features hand-drawn, pixel-perfect symmetric icons. I’m no designer, so it 
 | Migufy | Themify |
 |----|----|
 | ![alt text](Screenshots/new01.png) | ![alt text](/Screenshots/old01.png) |
+| ![alt text](Screenshots/new03.png) | ![alt text](/Screenshots/old03.png) |
+| ![alt text](Screenshots/new04.png) | ![alt text](/Screenshots/old04.png) |
+| ![alt text](Screenshots/new05.png) | ![alt text](/Screenshots/old05.png) |
 | ![alt text](/Screenshots/new02.png) | ![alt text](/Screenshots/old02.png) |
-| ![alt text](/Screenshots/new03.png) | ![alt text](/Screenshots/old03.png) |
 
 # Rockbox 360p Themes
 
