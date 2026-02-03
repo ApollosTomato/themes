@@ -1,7 +1,7 @@
 # Migufy Rockbox Theme
 Opinionated port of Themify, original theme made by Dook and ported to the Innioasis Y1 by rockbox-y1.
 
-It features hand-drawn, pixel-perfect symmetric icons. I’m no designer, so it may violate some UX guidelines, and it uses the Migu 1P font instead of League Spartan.
+It features hand-drawn, pixel-perfect symmetric icons for my fellow pixel peepers. I’m no designer, so it may violate some UX guidelines, and it uses the Migu 1P font instead of League Spartan.
 
 ## Other Changes
 - Hidden sleep indicator
